@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Habibullah</h1>
-<h3 align="center">🎯 **Machine Learning Engineer** | 🤖 AI Enthusiast | 🧠 Data Scientist Passionate about solving real-world problems using data, machine learning, and scalable systems</h3>
+<h3 align="center"> Machine Learning Engineer | 🤖 AI Enthusiast | 🧠 Data Scientist Passionate about solving real-world problems using data, machine learning, and scalable systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-868&label=Profile%20views&color=0e75b6&style=flat" alt="habib-868" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habib-868" alt="habib-868" /></a> </p>
 
-- 🔭 I’m currently working on **TradeLite**
+- 🔭 I’m currently working on TradeLite
 
-- 🌱 I’m currently learning **Deep Learning with TensorFlow and PyTorch**
+- 🌱 I’m currently learning Deep Learning with TensorFlow and PyTorch
 
-- 👯 I’m looking to collaborate on **Deep learning**
+- 👯 I’m looking to collaborate on Deep learning
 
-- 🤝 I’m looking for help with **Neural Networks**
+- 🤝 I’m looking for help with Neural Networks
 
-- 💬 Ask me about **Neural networks**
+- 💬 Ask me about Neural networks
 
-- 📫 How to reach me **habibullaharyan159@gmail.com**
+- 📫 How to reach me habibullaharyan159@gmail.com
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact I am funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
